@@ -13,14 +13,6 @@
   font-family: 'Montserrat', cursive;
 }
 
-.grid {
-  grid-gap:15x; 
-  display: grid; 
-  grid-template-columns: repeat(var(--columns, 12), minmax(1em, 1fr)); 
-  grid-column: span 12 ;
-  margin-top:20px;
-  }
-
 .med-title {
   font-family: 'Bungee', cursive;
   color:#F49F0A;
